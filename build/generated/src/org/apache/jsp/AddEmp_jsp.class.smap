@@ -1,0 +1,14 @@
+SMAP
+AddEmp_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddEmp.jsp
+AddEmp.jsp
++ 1 AdminHome.jsp
+AdminHome.jsp
+*L
+5,4:49
+1#1,88:52
+8#0,29:140
+*E

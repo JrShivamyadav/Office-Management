@@ -1,0 +1,16 @@
+SMAP
+EmpAtndReport_jsp.java
+JSP
+*S JSP
+*F
++ 0 EmpAtndReport.jsp
+EmpAtndReport.jsp
++ 1 EmployeeHome.jsp
+EmployeeHome.jsp
+*L
+5,7:50
+1#1,50:56
+11#0,7:106
+18,15:114
+32,7:129
+*E

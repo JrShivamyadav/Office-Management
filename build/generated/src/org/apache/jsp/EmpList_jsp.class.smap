@@ -1,0 +1,16 @@
+SMAP
+EmpList_jsp.java
+JSP
+*S JSP
+*F
++ 0 EmpList.jsp
+EmpList.jsp
++ 1 AdminHome.jsp
+AdminHome.jsp
+*L
+5,5:50
+1#1,88:54
+9#0,11:142
+20,18:154
+37,4:172
+*E
